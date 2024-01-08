@@ -18,3 +18,4 @@ elif current_env in [CODE_SPACE, LOCAL]:
     print("Codespace or local environment")
 else:
     print("Unknown environment")
+
